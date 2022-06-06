@@ -1,3 +1,4 @@
+//New thing i have added
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './resources/styles.css';
